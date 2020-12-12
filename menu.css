@@ -118,6 +118,7 @@ width:100%;
 grid-area:name;
 text-align:center;
 font-size:1.5rem;
+font-weight:bold;
 }
 
 .item_description{
